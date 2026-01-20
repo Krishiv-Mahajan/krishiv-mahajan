@@ -18,7 +18,7 @@
 
 ```typescript
 const krishiv = {
-    location: "India 🇮🇳",
+    location: "pune,maharashtra",
     education: "Computer Science Student",
     currentFocus: ["Web Development", "DSA", "Open Source"],
     learningGoals: ["Docker", "Go", "Linux", "Python"],
