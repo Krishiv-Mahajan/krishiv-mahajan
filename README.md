@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<br />
+    
 ### 👨‍💻 Student Developer Building the Future, One Commit at a Time
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;Data+Structures+%26+Algorithms;Learning+DevOps+%26+System+Programming;Open+to+Collaboration+%26+Mentorship" alt="Typing SVG" />
