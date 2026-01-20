@@ -1,161 +1,188 @@
 <div align="center">
 
-# 🎮 OPERATION: DEVELOPER 🎮
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=MISSION+STATUS%3A+ACTIVE;TACTICAL+DEVELOPER+DEPLOYED;CODING+THE+WARZONE" alt="Typing SVG" />
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  CALL SIGN: KRISHIV MAHAJAN                                   ║
-║  RANK: Student Developer                                      ║
-║  STATUS: Building & Learning                                  ║
-║  LOCATION: pune,maharastra                                    ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:008000&height=100&section=header&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Krishiv%20Mahajan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" />
 
 </div>
 
-## 🎯 MISSION BRIEFING
+<div align="center">
+<br />
+### 👨‍💻 Student Developer Building the Future, One Commit at a Time
 
-```javascript
-const operator = {
-    callSign: "Krishiv Mahajan",
-    class: "Full Stack Developer",
-    specialization: "Web Development & DSA",
-    status: "Training in Progress",
-    objective: "Master the digital battlefield",
-    motto: "Code Hard, Deploy Harder"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;Data+Structures+%26+Algorithms;Learning+DevOps+%26+System+Programming;Open+to+Collaboration+%26+Mentorship" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🎯 About Me
+
+```typescript
+const krishiv = {
+    location: "India 🇮🇳",
+    education: "Computer Science Student",
+    currentFocus: ["Web Development", "DSA", "Open Source"],
+    learningGoals: ["Docker", "Go", "Linux", "Python"],
+    interests: ["Building Solutions", "Contributing to FOSS", "Problem Solving"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
 
-## 🔫 LOADOUT - PRIMARY WEAPONS
+---
+
+## 💻 Technical Arsenal
 
 <div align="center">
 
-### ⚡ DEPLOYED ARSENAL
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java&theme=dark" />
+### Core Technologies
 
-```
-┌─────────────────────────────────────────┐
-│  HTML5    ████████████████░░░░          │
-│  CSS3     ████████████████░░░░          │
-│  JS       ███████████████░░░░░          │
-│  REACT    ██████████████░░░░░░          │
-│  JAVA/DSA ███████████████░░░░░          │
-└─────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+</tr>
+</table>
 
-### 🎖️ TRAINING IN PROGRESS
-<img src="https://skillicons.dev/icons?i=docker,go,linux,python&theme=dark" />
+### Currently Exploring
 
-```
-┌─────────────────────────────────────────┐
-│  DOCKER   ████████░░░░░░░░░░░           │
-│  GO       ███████░░░░░░░░░░░░           │
-│  LINUX    █████████░░░░░░░░░░           │
-│  PYTHON   ████████░░░░░░░░░░░           │
-└─────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+<br>Go
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+</tr>
+</table>
+
+### Development Tools
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+<br>npm
+</td>
+
+</tr>
+</table>
 
 </div>
 
-## 🎯 CURRENT OBJECTIVES
+---
+
+## 🔥 What I'm Up To
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🌱 Building modern web applications with **React**
+- 🧠 Solving DSA problems daily in **Java**
+- 🐳 Learning containerization with **Docker**
+- 🐹 Exploring systems programming with **Go**
+- 🐧 Getting hands-on with **Linux** administration
+- 🐍 Writing automation scripts in **Python**
+- 🤝 Looking for **open source** projects to contribute to
+- 📖 Preparing for **LFX Mentorship** programs
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=600&lines=%E2%9C%85+Building+React+Applications;%E2%9C%85+Mastering+Data+Structures;%E2%9C%85+Container+Deployment;%E2%9C%85+System+Programming;%E2%9C%85+Linux+Operations" alt="Typing SVG" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishiv-Mahajan&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
 </div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
 
 ```diff
-+ ACTIVE MISSIONS:
-  ├─ 🎯 Frontend: Deploying React components
-  ├─ 🧩 Backend: Training with Java DSA
-  ├─ 🐳 DevOps: Learning Docker containers
-  ├─ 🐹 Systems: Go programming drills
-  ├─ 🐧 OS: Linux command operations
-  └─ 🐍 Scripts: Python automation
-```
-
-## 💀 KILL FEED - RECENT VICTORIES
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                    ELIMINATION LOG                         ║
-╠════════════════════════════════════════════════════════════╣
-║  [✓] Deployed responsive web applications                  ║
-║  [✓] Conquered data structure challenges                   ║
-║  [✓] Executed React component architectures                ║
-║  [✓] Mastered frontend styling techniques                  ║
-║  [✓] Debugged mission-critical code issues                 ║
-║  [✓] Implemented modern JavaScript patterns                ║
-╚════════════════════════════════════════════════════════════╝
++ 🎯 Completed multiple web development projects
++ 💡 Active learner exploring new technologies
++ 🔨 Building practical solutions to real problems
++ 📚 Consistent coding practice and skill development
++ 🌟 Passionate about contributing to open source
 ```
 
 </div>
 
-## 🎮 BATTLE GEAR
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-</div>
-
-## 🎖️ TACTICAL APPROACH
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  "Every line of code is a step toward mastery.          │
-│   Every bug fixed is a lesson learned.                  │
-│   Every project deployed is a mission accomplished."    │
-└─────────────────────────────────────────────────────────┘
-```
-
-## 📡 COMMUNICATION CHANNELS
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishiv-Mahajan)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://krishiv-mahajan.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishiv-mahajan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krishiv-mahajan.netlify.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MahajanKri77158)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajankrishiv10@gmail.com)
 
 </div>
 
-## 🚀 DEPLOYMENT ZONE
+---
+
+## 💭 Random Dev Quote
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────┐
-│  STATUS: ONLINE AND OPERATIONAL                      │
-│  MISSION: CONTINUOUS LEARNING & BUILDING             │
-│  OBJECTIVE: BECOMING A LEGENDARY DEVELOPER           │
-└──────────────────────────────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=600&lines=STATUS%3A+TACTICAL+DEVELOPER;MISSION%3A+BUILD+DEPLOY+DOMINATE;ALWAYS+LEARNING+NEVER+STOPPING;READY+FOR+ACTION" alt="Typing SVG" />
-
-<br/>
-
-![Visitor Count](https://profile-counter.glitch.me/Krishiv-Mahajan/count.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:008000,100:00FF00&height=100&section=footer&animation=twinkling" />
-
-### ⚡ "CODE HARD, DEPLOY HARDER" ⚡
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
-imrove this
+---
+
+<div align="center">
+
+### 📈 Profile Stats
+
+![](https://komarev.com/ghpvc/?username=Krishiv-Mahajan&color=blueviolet&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=120&section=footer" />
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+</div>
