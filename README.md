@@ -25,7 +25,8 @@ const operator = {
     class: "Full Stack Developer",
     specialization: "Web Development & DSA",
     status: "Training in Progress",
-    objective: "Master the digital battlefield"
+    objective: "Master the digital battlefield",
+    motto: "Code Hard, Deploy Harder"
 };
 ```
 
@@ -62,7 +63,11 @@ const operator = {
 
 ## 🎯 CURRENT OBJECTIVES
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=%E2%9C%85+Building+React+Applications;%E2%9C%85+Mastering+Data+Structures;%E2%9C%85+Container+Deployment;%E2%9C%85+System+Programming;%E2%9C%85+Linux+Operations" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=600&lines=%E2%9C%85+Building+React+Applications;%E2%9C%85+Mastering+Data+Structures;%E2%9C%85+Container+Deployment;%E2%9C%85+System+Programming;%E2%9C%85+Linux+Operations" alt="Typing SVG" />
+
+</div>
 
 ```diff
 + ACTIVE MISSIONS:
@@ -74,26 +79,48 @@ const operator = {
   └─ 🐍 Scripts: Python automation
 ```
 
-## 📊 COMBAT STATISTICS
+## 💀 KILL FEED - RECENT VICTORIES
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krishiv-Mahajan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishiv-Mahajan&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6500&currStreakLabel=00FF00" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishiv-Mahajan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishiv-Mahajan&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" width="98%" />
+```
+╔════════════════════════════════════════════════════════════╗
+║                    ELIMINATION LOG                         ║
+╠════════════════════════════════════════════════════════════╣
+║  [✓] Deployed responsive web applications                  ║
+║  [✓] Conquered data structure challenges                   ║
+║  [✓] Executed React component architectures                ║
+║  [✓] Mastered frontend styling techniques                  ║
+║  [✓] Debugged mission-critical code issues                 ║
+║  [✓] Implemented modern JavaScript patterns                ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+## 🎮 BATTLE GEAR
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Krishiv-Mahajan&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
+
+## 🎖️ TACTICAL APPROACH
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  "Every line of code is a step toward mastery.          │
+│   Every bug fixed is a lesson learned.                  │
+│   Every project deployed is a mission accomplished."    │
+└─────────────────────────────────────────────────────────┘
+```
 
 ## 📡 COMMUNICATION CHANNELS
 
@@ -107,34 +134,23 @@ const operator = {
 
 </div>
 
-## 💀 KILL FEED
-
-```
-[RECENT ELIMINATIONS]
-► Deployed responsive web applications
-► Conquered data structure challenges
-► Executed React component architectures
-► Mastered frontend styling techniques
-► Debugged mission-critical code issues
-```
+## 🚀 DEPLOYMENT ZONE
 
 <div align="center">
 
-## 🎮 READY FOR DEPLOYMENT
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=600&lines=STATUS%3A+TACTICAL+DEVELOPER;MISSION%3A+BUILD+DEPLOY+DOMINATE;ALWAYS+LEARNING+NEVER+STOPPING" alt="Typing SVG" />
-
 ```
-╔════════════════════════════════════════╗
-║  🎯 MISSION ACCOMPLISHED: Visit Count  ║
-╠════════════════════════════════════════╣
+┌──────────────────────────────────────────────────────┐
+│  STATUS: ONLINE AND OPERATIONAL                      │
+│  MISSION: CONTINUOUS LEARNING & BUILDING             │
+│  OBJECTIVE: BECOMING A LEGENDARY DEVELOPER           │
+└──────────────────────────────────────────────────────┘
 ```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=600&lines=STATUS%3A+TACTICAL+DEVELOPER;MISSION%3A+BUILD+DEPLOY+DOMINATE;ALWAYS+LEARNING+NEVER+STOPPING;READY+FOR+ACTION" alt="Typing SVG" />
+
+<br/>
 
 ![Visitor Count](https://profile-counter.glitch.me/Krishiv-Mahajan/count.svg)
-
-```
-╚════════════════════════════════════════╝
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008000,100:00FF00&height=100&section=footer&animation=twinkling" />
 
