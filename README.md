@@ -9,7 +9,7 @@
 ║  CALL SIGN: KRISHIV MAHAJAN                                   ║
 ║  RANK: Student Developer                                      ║
 ║  STATUS: Building & Learning                                  ║
-║  LOCATION: pune,maharastra                                      ║
+║  LOCATION: pune,maharastra                                    ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
