@@ -8,7 +8,7 @@
     
 ### 👨‍💻 Student Developer Building the Future, One Commit at a Time
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;Data+Structures+%26+Algorithms;Learning+DevOps+%26+System+Programming;Open+to+Collaboration+%26+Mentorship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Data+Structures+%26+Algorithms+Enthusiast;Learning+DevOps+%26+System+Programming;Open+to+Collaboration!" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```typescript
 const krishiv = {
-    location: "pune,maharashtra",
+    location: "Pune, Maharashtra",
     education: "Computer Science Student",
     currentFocus: ["Web Development", "DSA", "Open Source"],
     learningGoals: ["Docker", "Go", "Linux", "Python"],
@@ -103,7 +103,6 @@ const krishiv = {
 <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
 <br>npm
 </td>
-
 </tr>
 </table>
 
@@ -113,7 +112,9 @@ const krishiv = {
 
 ## 🔥 What I'm Up To
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
+<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
 
 - 🌱 Building modern web applications with **React**
 - 🧠 Solving DSA problems daily in **Java**
@@ -123,8 +124,6 @@ const krishiv = {
 - 🐍 Writing automation scripts in **Python**
 - 🤝 Looking for **open source** projects to contribute to
 - 📖 Preparing for **LFX Mentorship** programs
-
-<br clear="right"/>
 
 ---
 
