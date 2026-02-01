@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Krishiv%20Mahajan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:DC143C&height=200&section=header&text=Krishiv%20Mahajan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50" />
 
 </div>
 
@@ -8,7 +8,14 @@
     
 ### 👨‍💻 Student Developer Building the Future, One Commit at a Time
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Data+Structures+%26+Algorithms+Enthusiast;Learning+DevOps+%26+System+Programming;Open+to+Collaboration!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=4000&pause=1500&color=DC143C&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Web+Developer;Data+Structures+%26+Algorithms+Enthusiast;Learning+DevOps+%26+System+Programming;Open+to+Collaboration!&repeat=true" alt="Typing SVG" />
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://krishiv-mahajan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishiv-mahajan/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MahajanKri77158)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajankrishiv10@gmail.com)
 
 </div>
 
@@ -23,7 +30,6 @@ const krishiv = {
     currentFocus: ["Web Development", "DSA", "Open Source"],
     learningGoals: ["Docker", "Go", "Linux", "Python"],
     interests: ["Building Solutions", "Contributing to FOSS", "Problem Solving"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
 
@@ -127,10 +133,23 @@ const krishiv = {
 
 ---
 
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://krishiv-mahajan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishiv-mahajan/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MahajanKri77158)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajankrishiv10@gmail.com)
+
+</div>
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishiv-Mahajan&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishiv-Mahajan&bg_color=0d1117&color=DC143C&line=DC143C&point=DC143C&area=true&hide_border=true&theme=github-dark" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -146,19 +165,6 @@ const krishiv = {
 + 📚 Consistent coding practice and skill development
 + 🌟 Passionate about contributing to open source
 ```
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://krishiv-mahajan.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishiv-mahajan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MahajanKri77158)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajankrishiv10@gmail.com)
 
 </div>
 
@@ -180,7 +186,7 @@ const krishiv = {
 
 ![](https://komarev.com/ghpvc/?username=Krishiv-Mahajan&color=blueviolet&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:8B0000&height=120&section=footer" />
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
