@@ -157,18 +157,6 @@ const krishiv = {
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
 ### 📈 Profile Stats
 
 ![](https://komarev.com/ghpvc/?username=Krishiv-Mahajan&color=blueviolet&style=flat-square&label=Profile+Views)
