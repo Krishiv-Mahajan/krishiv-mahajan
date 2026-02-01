@@ -156,8 +156,7 @@ const krishiv = {
 </div>
 
 ---
-
-### 📈 Profile Stats
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Krishiv-Mahajan&color=blueviolet&style=flat-square&label=Profile+Views)
 
