@@ -1,0 +1,21 @@
+name: Generate Space Invaders
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Space Invaders
+    steps:
+      - uses: actions/checkout@v3
+      - uses: czl9707/gh-space-invaders@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/profile-3d-contrib/profile-night-rainbow.svg
