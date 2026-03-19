@@ -129,7 +129,6 @@ const krishiv = {
 - 🐧 Getting hands-on with **Linux** administration
 - 🐍 Writing automation scripts in **Python**
 - 🤝 Looking for **open source** projects to contribute to
-- 📖 Preparing for **LFX Mentorship** programs
 
 ---
 
