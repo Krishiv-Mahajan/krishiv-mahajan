@@ -112,30 +112,6 @@ const krishiv = {
 
 ---
 
-## 2026 Mission Board
-
-- [ ] Build and deploy 3 production-ready full stack projects.
-- [ ] Contribute meaningful pull requests to open source repositories.
-- [ ] Strengthen system design and backend architecture fundamentals.
-- [ ] Reach a consistent DSA practice streak.
-
----
-
-## Quick Facts
-
-<div align="center">
-
-| Focus Area | What I Care About |
-| --- | --- |
-| Product Thinking | Solving real user problems, not just making demos |
-| Code Quality | Readable code, maintainable structure, fast iteration |
-| Collaboration | Clear communication, clean PRs, teamwork mindset |
-| Learning Style | Build first, improve fast, document lessons |
-
-</div>
-
----
-
 ## Lets Build Something Useful
 
 Open to internship opportunities, collaboration, and open source work.
