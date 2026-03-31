@@ -83,23 +83,6 @@ const krishiv = {
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Krishiv-Mahajan&show_icons=true&theme=transparent&title_color=F29F05&icon_color=4FC3C8&text_color=F8F7F2&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishiv-Mahajan&layout=compact&theme=transparent&title_color=F29F05&text_color=F8F7F2&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Krishiv-Mahajan&theme=transparent&ring=F29F05&fire=F29F05&currStreakLabel=4FC3C8&sideLabels=F8F7F2&currStreakNum=F8F7F2&sideNums=F8F7F2&dates=8AA2AA&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## GitHub Activity
 
 <div align="center">
@@ -114,7 +97,7 @@ const krishiv = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Krishiv-Mahajan/krishiv-mahajan/output/pacman-contribution-graph.svg" alt="Pacman Space Invader Contribution Graph" />
+<img src="https://raw.githubusercontent.com/Krishiv-Mahajan/krishiv-mahajan/output/pacman-contribution-graph-dark.svg" alt="Pacman Space Invader Contribution Graph (Dark)" />
 
 </div>
 
@@ -126,6 +109,43 @@ const krishiv = {
 - Maintained a steady learning and coding rhythm.
 - Built practical solutions with a user-first mindset.
 - Continuously exploring open source collaboration opportunities.
+
+---
+
+## 2026 Mission Board
+
+- [ ] Build and deploy 3 production-ready full stack projects.
+- [ ] Contribute meaningful pull requests to open source repositories.
+- [ ] Strengthen system design and backend architecture fundamentals.
+- [ ] Reach a consistent DSA practice streak.
+
+---
+
+## Quick Facts
+
+<div align="center">
+
+| Focus Area | What I Care About |
+| --- | --- |
+| Product Thinking | Solving real user problems, not just making demos |
+| Code Quality | Readable code, maintainable structure, fast iteration |
+| Collaboration | Clear communication, clean PRs, teamwork mindset |
+| Learning Style | Build first, improve fast, document lessons |
+
+</div>
+
+---
+
+## Lets Build Something Useful
+
+Open to internship opportunities, collaboration, and open source work.
+
+<div align="center">
+
+[![Collaborate](https://img.shields.io/badge/Lets_Collaborate-12343B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishiv-Mahajan)
+[![Hire Me](https://img.shields.io/badge/Internship_Ready-F29F05?style=for-the-badge&logo=readthedocs&logoColor=black)](mailto:mahajankrishiv10@gmail.com)
+
+</div>
 
 ---
 
