@@ -1,21 +1,35 @@
-name: Generate Space Invaders
+name: Generate Space Invader Graph
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
+concurrency:
+  group: space-invader-graph
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate Space Invaders
+    name: Generate Pacman SVG
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v3
-      - uses: czl9707/gh-space-invaders@v1
+      - name: Generate pacman graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/profile-3d-contrib/profile-night-rainbow.svg
+          github_user_name: Krishiv-Mahajan
+
+      - name: Push pacman graph to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

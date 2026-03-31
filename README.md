@@ -1,166 +1,140 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:DC143C&height=200&section=header&text=Krishiv%20Mahajan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1D26,35:12343B,70:2D5A63,100:F29F05&height=240&section=header&text=Krishiv%20Mahajan&fontSize=64&fontColor=F8F7F2&animation=fadeIn&stroke=000000&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Learner&descAlignY=68&descSize=18" alt="Krishiv Mahajan Banner" />
 
-</div>
+<br />
 
-<div align="center">
-    
-### 👨‍💻 Student Developer Building the Future, One Commit at a Time
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=4000&pause=1500&color=DC143C&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Web+Developer;Data+Structures+%26+Algorithms+Enthusiast;Learning+DevOps+%26+System+Programming;Open+to+Collaboration!&repeat=true" alt="Typing SVG" />
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://krishiv-mahajan.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishiv-mahajan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MahajanKri77158)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajankrishiv10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F29F05?style=for-the-badge&logo=firefox&logoColor=black)](https://krishiv-mahajan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishiv-mahajan/)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MahajanKri77158)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajankrishiv10@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 About Me
+<div align="center">
 
-```typescript
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1300&color=F29F05&center=true&vCenter=true&width=760&lines=Building+Useful+Web+Apps;Practicing+DSA+Daily;Exploring+Systems+%26+DevOps;Open+Source+Collaboration+Mode%3A+ON" alt="Typing Intro" />
+
+</div>
+
+---
+
+## Build. Learn. Repeat.
+
+Computer Science student from Pune focused on web products, problem solving, and open source growth.
+
+- Building frontend-first apps with React and modern JavaScript.
+- Practicing DSA consistently in Java.
+- Expanding systems and DevOps knowledge with Docker, Go, Linux, and Python.
+- Looking to collaborate on practical open source projects.
+
+---
+
+## Snapshot
+
+```ts
 const krishiv = {
-    location: "Pune, Maharashtra",
-    education: "Computer Science Student",
-    currentFocus: ["Web Development", "DSA", "Open Source"],
-    learningGoals: ["Docker", "Go", "Linux", "Python"],
-    interests: ["Building Solutions", "Contributing to FOSS", "Problem Solving"],
+  location: "Pune, Maharashtra, India",
+  role: "Computer Science Student",
+  focusNow: ["Web Development", "DSA", "Open Source"],
+  levelingUpIn: ["Docker", "Go", "Linux", "Python"],
+  principle: "Ship useful things, then improve them fast.",
 };
 ```
 
 ---
 
-## 💻 Technical Arsenal
+## Tech Stack
 
 <div align="center">
 
-### Core Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,docker,go,linux,python,git,github,vscode,npm&perline=7" alt="Tech Stack Icons" />
+
+</div>
+
+---
+
+## Current Focus
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br>HTML5
+<td width="50%" valign="top">
+
+### Shipping
+
+- Responsive, modern web interfaces
+- Clean component-based React code
+- Real project features, not only demos
+
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
+<td width="50%" valign="top">
+
+### Growing
+
+- Better system design intuition
+- Stronger DevOps fundamentals
+- Consistent open source contributions
+
 </td>
 </tr>
 </table>
 
-### Currently Exploring
+---
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-<br>Go
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-</tr>
-</table>
+## GitHub Stats
 
-### Development Tools
+<div align="center">
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
-<br>npm
-</td>
-</tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Krishiv-Mahajan&show_icons=true&theme=transparent&title_color=F29F05&icon_color=4FC3C8&text_color=F8F7F2&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishiv-Mahajan&layout=compact&theme=transparent&title_color=F29F05&text_color=F8F7F2&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Krishiv-Mahajan&theme=transparent&ring=F29F05&fire=F29F05&currStreakLabel=4FC3C8&sideLabels=F8F7F2&currStreakNum=F8F7F2&sideNums=F8F7F2&dates=8AA2AA&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🔥 What I'm Up To
+## GitHub Activity
 
 <div align="center">
-<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</div>
 
-- 🌱 Building modern web applications with **React**
-- 🧠 Solving DSA problems daily in **Java**
-- 🐳 Learning containerization with **Docker**
-- 🐹 Exploring systems programming with **Go**
-- 🐧 Getting hands-on with **Linux** administration
-- 🐍 Writing automation scripts in **Python**
-- 🤝 Looking for **open source** projects to contribute to
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishiv-Mahajan&bg_color=0b1d26&color=f29f05&line=4fc3c8&point=f8f7f2&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishiv-Mahajan&bg_color=0d1117&color=DC143C&line=DC143C&point=DC143C&area=true&hide_border=true&theme=github-dark" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## 🏆 Achievements & Highlights
+## Space Invader Contribution Graph
 
 <div align="center">
 
-```diff
-+ 🎯 Completed multiple web development projects
-+ 💡 Active learner exploring new technologies
-+ 🔨 Building practical solutions to real problems
-+ 📚 Consistent coding practice and skill development
-+ 🌟 Passionate about contributing to open source
-```
+<img src="https://raw.githubusercontent.com/Krishiv-Mahajan/krishiv-mahajan/output/pacman-contribution-graph.svg" alt="Pacman Space Invader Contribution Graph" />
 
 </div>
 
 ---
+
+## Highlights
+
+- Completed multiple web development projects end-to-end.
+- Maintained a steady learning and coding rhythm.
+- Built practical solutions with a user-first mindset.
+- Continuously exploring open source collaboration opportunities.
+
+---
+
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Krishiv-Mahajan&color=blueviolet&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Krishiv-Mahajan&color=1d9bf0&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:8B0000&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F29F05,100:12343B&height=120&section=footer" alt="Footer Banner" />
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+"Code is like humor. When you have to explain it, it is bad." - Cory House
 
 </div>
