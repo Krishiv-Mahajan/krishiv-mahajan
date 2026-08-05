@@ -86,7 +86,7 @@ const krishiv = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishiv-Mahajan&bg_color=0b1d26&color=f29f05&line=4fc3c8&point=f8f7f2&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishiv-mahajan&bg_color=0b1d26&color=f29f05&line=4fc3c8&point=f8f7f2&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
