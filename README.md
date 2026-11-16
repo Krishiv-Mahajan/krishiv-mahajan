@@ -1,18 +1,18 @@
 <!-- markdownlint-disable MD033 -->
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Krishiv Mahajan"/>
+<img src="assets/banner.png?v=1" width="100%" alt="Krishiv Mahajan"/>
 
 </div>
 
 <table width="100%">
   <tr>
-    <td width="30%" align="center">
+    <td width="50%" align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31erqnlke6d2da4dqheqrdgyim54&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31erqnlke6d2da4dqheqrdgyim54&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing"/>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31erqnlke6d2da4dqheqrdgyim54&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&mode=dark&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=false" alt="Spotify Now Playing"/>
       </a>
     </td>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <h3>Connect :)</h3>
       <a href="https://www.linkedin.com/in/krishiv-mahajan/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,24 +21,17 @@
       <a href="https://x.com/MahajanKri77158">
         <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
       </a>
-      &nbsp;
-      <a href="mailto:mahajankrishiv10@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishiv-Mahajan&theme=transparent&hide_border=true&ring=F29F05&fire=F29F05&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats"/>
     </td>
   </tr>
 </table>
 
-<br/>
+
 
 ## About
 
-Computer Science student from Pune focused on shipping useful web products, sharpening problem-solving skills, and growing through open source.
+Focused on open source infrastructure and cloud-native tooling. Currently an LFX Mentee (2026 Term 1) on Karmada, working closer to Kubernetes multi-cluster orchestration than typical application CRUD.
 
-I build frontend-first apps with React and modern JavaScript, practice DSA daily in Java, and keep expanding into systems and DevOps with Docker, Go, Linux, and Python. The goal is simple: ship useful things, then improve them fast.
+I enjoy problems where systems behavior, reliability, and clear abstractions matter. Day to day that means Go, Kubernetes, and practical tooling — while still shipping web interfaces with React when the product needs it.
 
 <br/>
 
@@ -46,7 +39,9 @@ I build frontend-first apps with React and modern JavaScript, practice DSA daily
 
 | I have | I'm learning |
 | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github,vscode,npm&perline=5" alt="Skills I have" /> | <img src="https://skillicons.dev/icons?i=docker,go,linux,python&perline=4" alt="Skills I'm learning" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,java,go,git,github,vscode,npm&perline=5" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,python,githubactions&perline=5" /> |
+
+
 
 <br/>
 
@@ -58,20 +53,20 @@ I build frontend-first apps with React and modern JavaScript, practice DSA daily
       <h3>
         <a href="https://github.com/Krishiv-Mahajan/LogMorph">LogMorph</a>
       </h3>
-      <p>Adaptive log processing and normalization platform that detects schema drift, adapts to format changes, and uses AI-assisted escalation for unknown formats.</p>
+      <p>Adaptive log processing and normalization platform that detects schema drift, automatically adapts to log format changes, and uses AI-assisted escalation for unknown formats.</p>
       <p>
-        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/-AI-F29F05?style=flat-square" alt="AI" />
+        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/-AI-F59E0B?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/Krishiv-Mahajan/Payment-Recovery-Opportunity-Engine">Payment Recovery Engine</a>
       </h3>
-      <p>AI-powered system that finds failed-payment recovery opportunities, predicts success likelihood, picks the right action, and runs bounded recovery workflows.</p>
+      <p>AI-powered payment recovery system that identifies failed-payment opportunities, predicts recovery likelihood, selects the right action, and executes bounded recovery workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/-AI-F29F05?style=flat-square" alt="AI" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-AI-F59E0B?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -80,19 +75,19 @@ I build frontend-first apps with React and modern JavaScript, practice DSA daily
       <h3>
         <a href="https://github.com/Krishiv-Mahajan/Revenue-degradation-recovery">Revenue Degradation Recovery</a>
       </h3>
-      <p>Recovery-focused tooling around revenue degradation signals — detecting drops early and supporting practical remediation paths.</p>
+      <p>Tooling around revenue degradation signals — detecting drops early and supporting practical remediation paths for recovery-focused workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/Krishiv-Mahajan/Frontend_assignments">Frontend Assignments</a>
       </h3>
-      <p>Hands-on frontend practice: responsive interfaces, component-based React patterns, and shipping clean UI beyond demos.</p>
+      <p>Hands-on frontend practice building responsive interfaces and component-based React patterns with a focus on shipping clean UI.</p>
       <p>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -105,29 +100,20 @@ I build frontend-first apps with React and modern JavaScript, practice DSA daily
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishiv-Mahajan&bg_color=0a0a0a&color=f29f05&line=4fc3c8&point=f8f7f2&area=true&hide_border=true" alt="GitHub Activity Graph" />
+      <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Activity"/>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Krishiv-Mahajan/krishiv-mahajan/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-    </td>
-  </tr>
+
 </table>
 
 <br/>
 
+
 ## Engineering Direction
 
-- **Web Products:** Shipping responsive, modern interfaces with clean React code.
-- **Problem Solving:** Practicing DSA consistently in Java and applying it to real builds.
-- **Systems & DevOps:** Leveling up with Docker, Go, Linux, and Python.
-- **Open Source:** Looking to collaborate on practical projects and grow through contributions.
+- **Open Source:** LFX Mentee (2026 Term 1) on Karmada; contributing to cloud-native multi-cluster projects.
+- **Cloud Native:** Exploring Kubernetes, workload orchestration, and reliable distributed systems tooling.
+- **Language Focus:** Writing Go for cloud-native work and JavaScript/React when building product interfaces.
+- **Goal:** Grow into systems engineering through real open source contributions and shipped tooling.
 
 <br/>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Krishiv-Mahajan&color=f29f05&style=flat-square&label=Profile+Views)
-
-</div>
